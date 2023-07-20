@@ -1,0 +1,21 @@
+html, body {
+  margin: 0;
+  padding: 0;
+}
+
+#mainBackground{
+  background-image: url('../images/Background.jpg');
+  height: 100vh;
+}
+
+canvas {
+  display: block;
+}
+
+button{
+  border-radius: 10px;
+}
+
+select{
+  border-radius: 10px;
+}
